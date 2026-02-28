@@ -1,3 +1,5 @@
+# ZTA Component Definitions
+
 ## Policy Engine (PE)
 The policy engine is the decision-maker of the zero trust system. It acts like the brain evaluating all security signals and verifying things like the users identity,device security, and network location. The PE makes the final decision to allow or deny access.
 
